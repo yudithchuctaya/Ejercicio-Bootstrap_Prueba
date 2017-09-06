@@ -1,0 +1,31 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat" ;
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    position: relative;
+    padding-top: 84px;
+    padding-bottom: 80px;
+
+}
+
+header nav{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    height: 70px;
+    background-color: #fff;
+
+}
+
+header nav ul{
+line-height: 70px;
+text-align: right;
+padding-right: 80px;
+}
+nav ul li a{
+    text-transform: uppercase;
+    color: #000;
+}
