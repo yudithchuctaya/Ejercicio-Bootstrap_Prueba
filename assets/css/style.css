@@ -29,3 +29,23 @@ nav ul li a{
     text-transform: uppercase;
     color: #000;
 }
+header nav h1{
+    margin: 0px;
+    margin-left: 30px;
+    line-height: 70px;
+}
+header .action img{
+    width: 80px;
+    margin: 15px 0px;
+}
+header .action h1{
+    text-size:2em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.action .btn{
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+
